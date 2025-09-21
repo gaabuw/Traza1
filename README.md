@@ -8,3 +8,9 @@ El modelo contempla:
 - País → Provincias → Localidades → Domicilios → Sucursales → Empresas.  
 - Relación bidireccional y unidireccional según corresponda.  
 - Cada clase implementa getters/setters y `toString` mediante Lombok.
+  
+>    **Nota importante:**  
+> Repositorio de Github para el trabajo práctico solicitado de Traza 1            
+> Materia: Desarrollo de Software 3k10 - 2025  
+> Alumno: Gabriel Villalobos
+
